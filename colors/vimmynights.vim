@@ -48,7 +48,7 @@ hi DiffText		cterm=bold ctermbg=red gui=bold guibg=Red
 hi Cursor 		guifg=white guibg=blue ctermfg=white ctermbg=blue
 hi iCursor 		guifg=white guibg=red ctermfg=white ctermbg=red
 
-hi Comment		guifg=#80a0ff ctermfg=darkred
+hi Comment		guifg=#80a0ff ctermfg=lightblue
 hi Constant		ctermfg=magenta guifg=#ffa0a0 cterm=none
 hi Special		ctermfg=brown guifg=Orange cterm=none gui=none
 hi Identifier	ctermfg=cyan guifg=#40ffff cterm=none
