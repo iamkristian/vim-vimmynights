@@ -38,7 +38,7 @@ hi VertSplit	guifg=black guibg=darkgray gui=none		ctermfg=black 	ctermbg=gray te
 
 hi Folded		guifg=#808080 guibg=#000040				ctermfg=darkgrey ctermbg=black cterm=bold term=bold
 hi FoldColumn	guifg=#808080 guibg=#000040				ctermfg=darkgrey ctermbg=black cterm=bold term=bold
-hi LineNr		guifg=#90f020							ctermfg=green cterm=none
+hi LineNr		guifg=darkgrey 							ctermfg=darkgrey cterm=none
 
 hi DiffAdd		guibg=darkblue	ctermbg=darkblue term=none cterm=none
 hi DiffChange	guibg=darkmagenta ctermbg=magenta cterm=none
