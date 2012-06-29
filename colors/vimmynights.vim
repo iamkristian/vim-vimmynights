@@ -45,6 +45,8 @@ hi DiffChange	guibg=darkmagenta ctermbg=magenta cterm=none
 hi DiffDelete	ctermfg=blue ctermbg=cyan gui=bold guifg=Blue guibg=DarkCyan
 hi DiffText		cterm=bold ctermbg=red gui=bold guibg=Red
 
+hi ExtraWhitespace ctermbg=darkgreen guibg=lightgreen
+
 hi Cursor 		guifg=white guibg=blue ctermfg=white ctermbg=blue
 hi iCursor 		guifg=white guibg=red ctermfg=white ctermbg=red
 
