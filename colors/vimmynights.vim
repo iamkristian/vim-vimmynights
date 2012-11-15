@@ -55,5 +55,6 @@ hi Comment		      guifg=#80a0ff                                 ctermfg=lightblu
 hi Constant		      guifg=#ffa0a0                                 ctermfg=magenta   cterm=none
 hi Special		      guifg=Orange    gui=none                      ctermfg=brown     cterm=none
 hi Identifier	      guifg=#40ffff                                 ctermfg=cyan      cterm=none
+hi ExtraWhitespace  guibg=#303030                                 ctermfg=236       cterm=none
  #d14a14
- hi ColorColumn                     guibg=#1c1c1c                                   ctermbg=234
+hi ColorColumn                      guibg=#1c1c1c                                   ctermbg=234
