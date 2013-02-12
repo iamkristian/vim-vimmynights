@@ -6,6 +6,7 @@
 " vimmynights
 " Makes the menu bold on vsplits
 
+runtime colors/ir_black.vim
 set bg=dark
 hi clear
 if exists("syntax_on")
